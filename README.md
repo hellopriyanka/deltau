@@ -1,5 +1,5 @@
 **myAgent — AI Personal Assiostant**
-Multi-Agent System | ADK + Gemini + Cloud Run + Firestore + Python
+Multi-Agent System | ADK + Gemini 2.5 Flash + Cloud Run + Vertex AI
 
 **Project structure**
 <img width="635" height="534" alt="image" src="https://github.com/user-attachments/assets/a2667365-4f3f-43a4-b6fc-80dc2bd2f771" />
