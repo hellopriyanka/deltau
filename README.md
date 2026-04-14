@@ -2,6 +2,8 @@
 Multi-Agent System | ADK + Gemini + Cloud Run + Firestore + Python
 
 **Project structure**
+<img width="635" height="534" alt="image" src="https://github.com/user-attachments/assets/a2667365-4f3f-43a4-b6fc-80dc2bd2f771" />
+
 my-agent/
 ├── agent.py              # Core agent logic (ADK LlmAgent)
 ├── calendar_tools.py     # Calendar-related tools
